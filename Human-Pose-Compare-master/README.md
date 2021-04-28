@@ -1,6 +1,4 @@
 # Human-Pose-Compare
-For theory and details on implementation, Please Visit: 
-https://medium.com/@krishnarajr319/human-pose-comparison-and-action-scoring-using-deep-learning-opencv-python-c2bdf0ddecba
 
 ## Quick start 
 Install Dependencies:
